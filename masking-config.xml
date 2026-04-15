@@ -1,0 +1,10 @@
+<MaskingConfig>
+  <Customers>
+    <Name />
+    <Email />
+  </Customers>
+  <Orders>
+    <CreditCardNumber />
+    <ShippingAddress />
+  </Orders>
+</MaskingConfig>
