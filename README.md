@@ -1,5 +1,8 @@
 # OpenDataMask .NET Console Application
 
+Courtesy: MaximumTrainer - https://github.com.mcas.ms/MaximumTrainer. 
+See the original code on which this is based https://github.com.mcas.ms/MaximumTrainer/OpenDataMask
+
 This repository contains a standalone .NET 10 console application for masking MongoDB documents using an XML-driven configuration.
 
 ## Structure
